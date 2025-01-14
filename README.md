@@ -47,7 +47,8 @@ To set up the database for this project:
 4. Update the database credentials in the .env file to match your database configuration.
 5. Verify the connection by starting the backend server.
 
-```bash
+```
+bash
 
 6. Start the backend server:
 
