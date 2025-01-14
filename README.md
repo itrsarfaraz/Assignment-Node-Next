@@ -38,7 +38,7 @@ DB_USER=your_database_user
 DB_PASS=your_database_password
 DB_NAME=ecommerce_db
 ```
-Importing the Database
+4. Importing the Database
 To set up the database for this project:
 
 1. Locate the database.sql file in the backend folder.
@@ -47,10 +47,8 @@ To set up the database for this project:
 4. Update the database credentials in the .env file to match your database configuration.
 5. Verify the connection by starting the backend server.
 
-```
-bash
 
-6. Start the backend server:
+5. Start the backend server:
 
 ```bash
 # For development
